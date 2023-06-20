@@ -1,4 +1,4 @@
-# Project-for-Program-Design
+# Project-for-Programing Concepts
 Java Exercise 4
 Chinese Zodiac
 The order of the Chinese Zodiac is based on a 12-year cycle. The first zodiac corresponds to
